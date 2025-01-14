@@ -1,6 +1,6 @@
 # **My Contribution**
 
-<p align="center"> *"A pint of sweat will save a gallon of blood."* -Major General Patton, George </p>
+<p align="center"><strong> "A pint of sweat will save a gallon of blood."</strong><i> -Major General Patton, George</i> </p>
 
 - ✅ I Agree
 - ❌ I disagree
